@@ -88,4 +88,17 @@ html {
   background: none;
   border-radius: 55px;
   padding: 5px 15px;
+  text-align: right;
 }
+
+.btn:hover {
+  color: red;
+}
+
+
+.blue-btn {
+  background-color: blue;
+  color: white;
+  flex
+}
+
